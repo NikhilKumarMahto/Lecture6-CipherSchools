@@ -1,0 +1,72 @@
+body {
+    text-align: justify;
+    background-image: linear-gradient(yellow, green);
+    background-repeat: no-repeat;
+    
+}
+
+p {
+    outline-color: black;
+    /* text-decoration: underline;
+    text-decoration: line-through;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-indent: 20px; */
+    /* letter-spacing: 3px;
+    word-spacing: 20px;
+
+    line-height: 1.8; */
+
+    text-shadow: 2px 3px red;
+
+    /* direction: rtl;
+    unicode-bidi: bidi-override; */
+}
+
+p.solid {
+    /* outline-style: solid;
+    outline-width: 10px; */
+}
+
+#one {
+    color: red;
+}
+
+#two {
+    color: pink;
+}  
+
+h1 {
+    text-shadow: 1px 1px red;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic; */
+    /* font: 20px Arial, sans-serif; */
+
+}
+
+a:hover, a:active {
+    background-color: rebeccapurple;
+}
+
+/* div {
+    background-color: grey;
+    width: 200px;
+    height: 80px;
+    overflow: scroll;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    overflow: auto;
+    float: left;
+} */
+
+div.imageGallery {
+    float: left;
+    margin: 5px;
+    border: 1px solid black;
+    width: 300px;
+}
+
+div.description {
+    
+}
